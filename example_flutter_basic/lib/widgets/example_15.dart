@@ -45,7 +45,7 @@ class Example15 extends StatelessWidget {
             ],
           ),
           FlutterLogo(
-            size: 200,
+            size: 150,
           ),
           Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
